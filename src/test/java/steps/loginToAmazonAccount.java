@@ -17,6 +17,8 @@ public class loginToAmazonAccount extends amazonBase{
 	@Given("I am on the amazon homepage")
 	public void i_am_on_the_amazon_homepage() {
 		
+		/// Hey, how are you ? 
+		
 		launchBrowser();
 		
 		
